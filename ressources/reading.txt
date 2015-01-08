@@ -1,0 +1,3 @@
+http://www.php-kurs.info/tutorial-php_gaestebuch.html
+http://www.php-einfach.de/tuts_mysql_gb.php
+http://www.php-einfach.de/tuts_php_gb.php
